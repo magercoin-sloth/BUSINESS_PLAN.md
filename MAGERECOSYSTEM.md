@@ -23,7 +23,7 @@ We don't just build tokens; we build a **lifestyle brand**.
 * **IP Rights (HAKI):** Registering "MagerCoin" and the "Sloth Character" as official intellectual property.
 * **Team Expansion:** Recruiting core members for IT, Creative, and Operations.
 
-**Phase 3: Strategic Infrastructure Expansion**
+### **Phase 3: Strategic Infrastructure Expansion**
 * **Lunar Sloth Office:** Construction of our headquarters in Garut, West Java.
 * **Global Hub:** Studio for creative production and security command center.
 
