@@ -42,7 +42,7 @@ We don't just build tokens; we build a **lifestyle brand**.
 ---
 
 ## 🗺️ Activation Trigger
-> **Note:** Activation of Phase 3 (Lunar Sloth Office) begins at **$20,000,000 Market Cap** to ensure long-term operational sustainability.
+> **Note:** Activation of Phase 3 (Lunar Sloth Office) begins at **$25,000,000 Market Cap** to ensure long-term operational sustainability.
 
 
 ## 📈 Investor Confidence
