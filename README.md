@@ -1,4 +1,3 @@
-‎# 🦥 PT Lunar Sloth Internasional
 ### Official Business Ecosystem of $MAGER (MagerCoin)
 
 Welcome to the official business repository of **PT Lunar Sloth Internasional**. We are bridging the gap between meme-culture and a sustainable professional ecosystem, based in the highlands of **Garut, Indonesia**.
