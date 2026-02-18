@@ -1,4 +1,7 @@
-### Official Business Ecosystem of $MAGER (MagerCoin)
+# 🦥 PT Lunar Sloth Internasional
+### *Official Business Ecosystem for $MAGER (MagerCoin)*
+
+---
 
 Welcome to the official business repository of **PT Lunar Sloth Internasional**. We are bridging the gap between meme-culture and a sustainable professional ecosystem, based in the highlands of **Garut, Indonesia**.
 
@@ -35,11 +38,7 @@ We don't just build tokens; we build a **lifestyle brand**.
 ---
 
 ## 🗺️ Strategic Roadmap
-> **Note:** Activation of Phase 3 (Lunar Sloth Office) begins at **$20,000,000 Market Cap**.
-
-* **Key Facilities:** Creative Studio, IT Security Command Center, and Merchandise Fulfillment Hub.
-
----
+> **Note:** Activation of Phase 3 (Lunar Sloth Office) begins at **$20,000,000 Market Cap**. 
 
 ## 📈 Investor Confidence
 * **RWA Integration:** Real-world profit from merchandise will contribute to the $MAGER ecosystem.
