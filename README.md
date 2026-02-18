@@ -1,6 +1,3 @@
-# BUSINESS_PLAN.md
-
-
 ‎# 🦥 PT Lunar Sloth Internasional: The Future of Chill Ecosystem
 ‎
 ‎## 📌 Executive Summary
