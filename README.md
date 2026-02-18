@@ -22,23 +22,22 @@ We don't just build tokens; we build a **lifestyle brand**.
 * **IP Rights (HAKI):** Registering "MagerCoin" and the "Sloth Character" as official intellectual property.
 * **Team Expansion:** Recruiting core members for IT, Creative, and Operations.
 
-### **Phase 3: Strategic Infrastructure Expansion**
-* **Objective:** Establishment of the physical **Lunar Sloth Office** headquarters.
-* **Location:** Garut, West Java, Indonesia.
-* **Activation Trigger:** This phase will be initiated upon reaching a **Market Capitalization of $20,000,000 (Twenty Million USD)** to ensure sustainable long-term operational funding.
-* **Key Facilities:** Creative Studio, IT Security Command Center, and Merchandise Fulfillment Hub.
+### **Phase 3: Strategic 
+## 🏢 Corporate Structure (Lunar Sloth Office)
+| Position | Responsibility |
+| :--- | :--- |
+| **Lead IT & Web Developer** | Security, dApps, & Web3 Integration |
+| **Lead Digital Artist** | 3D NFT Assets & Branding |
+| **Multimedia Creator** | Viral Social Media Content |
+| **Merchandise Manager** | Vendor Relations & Quality Control |
+| **Security Team** | 24/7 Physical On-site Security |
 
 ---
 
-## 🏢 Planned Team Structure (Lunar Sloth Office)
-To maintain our ecosystem's integrity, we are committed to hiring professional talents in our Garut headquarters:
+## 🗺️ Strategic Roadmap
+> **Note:** Activation of Phase 3 (Lunar Sloth Office) begins at **$20,000,000 Market Cap**.
 
-1.  **Lead IT & Web Developer:** Security, dApps, and Web3 integration.
-2.  **Lead Digital Artist:** NFT 3D assets and branding.
-3.  **Multimedia Creator:** Viral social media content production.
-4.  **Merchandise Manager:** Vendor relations and quality control.
-5.  **Community & Customer Success:** 24/7 global community support.
-6.  **Physical Security Team:** 24/7 On-site security (Day & Night shifts).
+* **Key Facilities:** Creative Studio, IT Security Command Center, and Merchandise Fulfillment Hub.
 
 ---
 
