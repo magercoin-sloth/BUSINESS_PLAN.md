@@ -1,44 +1,54 @@
-‎# 🦥 PT Lunar Sloth Internasional: The Future of Chill Ecosystem
+‎# 🦥 PT Lunar Sloth Internasional
+### Official Business Ecosystem of $MAGER (MagerCoin)
+
+Welcome to the official business repository of **PT Lunar Sloth Internasional**. We are bridging the gap between meme-culture and a sustainable professional ecosystem, based in the highlands of **Garut, Indonesia**.
+
+---
 
 ## 📌 Executive Summary
-PT Lunar Sloth Internasional is the official legal entity behind the **$MAGER** token. Headquartered in the serene highlands of **Garut, Indonesia**, we are building a hybrid ecosystem that bridges Decentralized Finance (DeFi) with real-world utility, including high-end merchandise, NFT collectibles, and a creative digital media hub.
+**PT Lunar Sloth Internasional** is the legal entity responsible for the growth, utility, and security of the **$MAGER** token. Our mission is to build a high-value digital asset ecosystem while maintaining a "Chill & Relax" philosophy. 
 
-Our philosophy is simple: **High Value, Low Stress.** We build serious technology while maintaining the "Mager" (relaxed) lifestyle.
-
----
-
-## 🏢 The Lunar Sloth Office (Garut, West Java)
-We have strategically chosen Garut as our base of operations to ensure a sustainable "Creative Retreat" environment for our team. Our office serves as the nerve center for:
-* **Blockchain Development:** Smart contract auditing and web3 integration.
-* **Creative Studio:** Production of viral content and NFT 3D assets.
-* **Logistics Hub:** Worldwide distribution of $MAGER official merchandise.
+We don't just build tokens; we build a **lifestyle brand**.
 
 ---
 
-## 🛠 Strategic Team Structure (9-Core Member)
-To ensure maximum efficiency and security, we are operating with a specialized team:
-1.  **CEO / Founder:** Leading the vision and market strategy.
-2.  **IT & Web Developer:** Managing the $MAGER portal and NFT minting dApps.
-3.  **Creative Division:** Digital Artists and Video Creators for global branding.
-4.  **Operational Division:** Merchandise Manager and Logistics experts.
-5.  **Community Hub:** Community Managers and Customer Success officers.
-6.  **Physical Security:** 24/7 on-site security for office and physical assets.
+## 🗺️ Strategic Roadmap & Milestones
+
+### **Phase 1: Foundation & Launch**
+* **$MAGER Token Launch:** Fair launch and community building.
+* **Marketing Initialization:** Global awareness and influencer partnerships.
+
+### **Phase 2: Legal & Identity**
+* **Corporate Incorporation:** Establishing **PT Lunar Sloth Internasional** with official government permits (NIB).
+* **IP Rights (HAKI):** Registering "MagerCoin" and the "Sloth Character" as official intellectual property.
+* **Team Expansion:** Recruiting core members for IT, Creative, and Operations.
+
+### **Phase 3: Strategic Infrastructure Expansion**
+* **Objective:** Establishment of the physical **Lunar Sloth Office** headquarters.
+* **Location:** Garut, West Java, Indonesia.
+* **Activation Trigger:** This phase will be initiated upon reaching a **Market Capitalization of $20,000,000 (Twenty Million USD)** to ensure sustainable long-term operational funding.
+* **Key Facilities:** Creative Studio, IT Security Command Center, and Merchandise Fulfillment Hub.
 
 ---
 
-## 🚀 Why This Matters for Investors
-* **Legal Compliance:** We are establishing a formal PT (Limited Liability Company) with official NIB (Business Identification Number) and HAKI (Intellectual Property Rights) for all $MAGER assets.
-* **Real World Assets (RWA):** Profits from merchandise and real-world business will be used for ecosystem growth and token buybacks.
-* **Transparency:** Every milestone of our office development and legal process will be updated here on GitHub.
+## 🏢 Planned Team Structure (Lunar Sloth Office)
+To maintain our ecosystem's integrity, we are committed to hiring professional talents in our Garut headquarters:
+
+1.  **Lead IT & Web Developer:** Security, dApps, and Web3 integration.
+2.  **Lead Digital Artist:** NFT 3D assets and branding.
+3.  **Multimedia Creator:** Viral social media content production.
+4.  **Merchandise Manager:** Vendor relations and quality control.
+5.  **Community & Customer Success:** 24/7 global community support.
+6.  **Physical Security Team:** 24/7 On-site security (Day & Night shifts).
 
 ---
 
-## 📅 Roadmap 2026
-* **Phase 1:** Token Launch & Community Building.
-* **Phase 2:** Legal Incorporation (PT Lunar Sloth Internasional) & HAKI Registration.
-"Phase 3: Opening of the 'Lunar Sloth Office' in Garut (Triggered at $20M Market Cap)."
-* **Phase 4:** Launch of Exclusive Merchandise Store & NFT Tier-1 Collection.
+## 📈 Investor Confidence
+* **RWA Integration:** Real-world profit from merchandise will contribute to the $MAGER ecosystem.
+* **Transparency:** All major corporate milestones and legal updates will be documented in this repository.
+* **Vision:** From a local office in Garut to a global brand on the Moon.
 
 ---
 *"Relax on the moon, we handle the grind."*
-**$MAGER - PT Lunar Sloth Internasional**
+**© 2026 PT Lunar Sloth Internasional. All Rights Reserved.**
+
