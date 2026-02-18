@@ -51,6 +51,7 @@ We don't just build tokens; we build a **lifestyle brand**.
 * **Vision:** From a local office in Garut to a global brand on the Moon.
 
 ---
-*"Relax on the moon, we handle the grind."*
+*"​Don't run to the moon, let the moon come to us!" 🚀🌙"*
+
 **© 2026 PT Lunar Sloth Internasional. All Rights Reserved.**
 
