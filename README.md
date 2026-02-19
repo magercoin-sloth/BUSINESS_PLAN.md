@@ -8,7 +8,7 @@ Welcome to the official business repository of **PT Lunar Sloth Internasional**.
 ## 📌 Executive Summary
 **PT Lunar Sloth Internasional** is the legal entity responsible for the growth, utility, and security of the **$MAGER** token. Our mission is to build a high-value digital asset ecosystem while maintaining a "Chill & Relax" philosophy. 
 
-We don't just build tokens; we build a **lifestyle brand**.
+We don't just build tokens we build a **lifestyle brand**.
 
 ---
 
