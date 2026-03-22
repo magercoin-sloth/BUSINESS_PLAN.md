@@ -21,4 +21,4 @@
 
 ---
 
-> *"We don't just build a coin we build a legacy. While we relax and hold, we make sure we lift others up with us."* 🦥❤️
+> *"We don't just build a coin we build a legacy. While we relax and hold, we make sure we lift others up with us."* 🦥
