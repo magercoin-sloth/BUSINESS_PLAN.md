@@ -27,12 +27,12 @@ We believe in "Local Impact, Global Reach." By establishing our roots in **Garut
 
 * **Sloth Charity Day:** Every company anniversary, we distribute **Premium Food Packages (Sembako)** and exclusive $MAGER Gear to the local community.
 * **Economic Empowerment:** Creating high-tech jobs and empowering the local creative economy through our Digital Lab.
-* **Inclusive Growth:** Proving that a tech company can thrive in a rural area while elevating the entire region's UMK (Minimum Wage) standards.
+* **Inclusive Growth:** Proving that a tech company can thrive in a rural area while elevating the entire region's UMK standards.
 
 ---
 
 ## 📜 The Founder’s Promise
-> "We don't just build a coin we build a sanctuary. While we 'Mager' (relax and hold), we ensure we lift others up with us. Our success is measured by the impact we leave behind."
+> "We don't just build a coin, we build a sanctuary. While we 'Mager' (relax and hold), we ensure we lift others up with us. Our success is measured by the impact we leave behind."
 
 **— Sloth King, Founder & CEO of PT Lunar Sloth Internasional**
 
