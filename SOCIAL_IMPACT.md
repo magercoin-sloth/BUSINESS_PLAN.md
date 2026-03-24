@@ -18,7 +18,7 @@
 
 * **The Reward:** Every New Year, one selected staff member (from Security to Lead Developers) receives a **fully-funded Umrah Pilgrimage** to the Holy Land.
 * **Transparency:** Winners are chosen via a live-streamed, transparent selection process.
-* **The Founder’s Vow:** This program is fueled directly by the **CEO’s Personal Performance Bonus (122.5M per $1M MC increase)**. This ensures that 100% of company operational cash flow stays focused on ecosystem growth while the CEO personally rewards the team.
+* **The Founder’s Vow:** This program is fueled directly by the **CEO’s Personal Performance Bonus**. This ensures that 100% of company operational cash flow stays focused on ecosystem growth while the CEO personally rewards the team.
 
 ---
 
