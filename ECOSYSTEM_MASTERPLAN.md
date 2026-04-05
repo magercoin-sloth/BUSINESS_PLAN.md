@@ -38,5 +38,20 @@ By providing actual utility, $MAGER creates a **"Fundamental Floor"** of demand.
 ### 🌍 Mass Adoption Ready
 We are simplifying the "Crypto-to-Real-Life" transition starting with **10,000+ early users** in Indonesia, with a clear blueprint for global expansion.
 
+# 🌐 $MAGER Ecosystem Hub
+
+> **This repository contains the technical framework and development logs for the $MAGER Payment Suite. For the general project overview, visit [$MAGER-OFFICIAL](https://github.com/magercoin-sloth/mager-coin-official)**
+
+---
+
+### 🛠️ Technical Roadmap
+* **Engine:** Solana Program Library (SPL)
+* **Status:** Planning & Architectural Design
+* **Primary Utility:** Real-world Payment Integration (PLN, Pulsa, Travel)
+
+---
+*For branding, vision, and community updates, please refer to the main repository.*
+
+
 ---
 *Built with patience. Powered by Solana. Driven by the Sloth King.*
