@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="$Mager app v.2.png" alt="$MAGER App Ecosystem" width="800">
+</p>
+
+
 # 🛠️ $MAGER Ecosystem: Bridging Memes to Real-World Utility
 
 > **"While most tokens live and die in the charts, $MAGER is built to live in your pocket."**
