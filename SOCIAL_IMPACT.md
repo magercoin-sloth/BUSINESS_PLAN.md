@@ -1,9 +1,9 @@
-<div align="center">
+---
 
-# 🕊️ SOCIAL IMPACT & HUMANITY PROGRAM
-### THE $MAGER LEGACY
+## 🕊️ SOCIAL IMPACT & HUMANITY PROGRAM
+### *THE $MAGER LEGACY*
 
-<img src="Social impact.png" alt="Social Impact $MAGER Legacy" width="100%">
+<img src="assets/Social impact.png" alt="Social Impact $MAGER Legacy" width="100%">
 
 *"True wealth is not measured by the numbers in our wallets, but by the smiles we create in our community."*
 
