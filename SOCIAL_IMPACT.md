@@ -40,15 +40,16 @@ We believe in **"Local Impact, Global Reach."** By establishing our roots in Gar
 * **📈 Inclusive Growth:** Proving that a tech company can thrive in a rural area while elevating the entire region's **UMK standards**.
 
 ---
+<p align="center">
+  📜 <b>THE FOUNDER’S PROMISE</b><br>
+  <i>"We don't just build a coin, we build a sanctuary. While we 'Mager' (relax and hold), we ensure we lift others up with us. Our success is measured by the impact we leave behind."</i>
+</p>
 
-<div align="center">
+<p align="center">
+  <b>— SLOTH KING</b><br>
+  Founder & CEO of PT Lunar Sloth Internasional
+</p>
 
-### 📜 THE FOUNDER’S PROMISE
-*"We don't just build a coin, we build a sanctuary. While we 'Mager' (relax and hold), we ensure we lift others up with us. Our success is measured by the impact we leave behind."*
-
-**— SLOTH KING** Founder & CEO of PT Lunar Sloth Internasional
-
-<br>
 
 *© 2026 PT Lunar Sloth Internasional. All Rights Reserved. Built with Integrity.*
 
