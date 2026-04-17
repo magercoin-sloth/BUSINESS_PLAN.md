@@ -2,25 +2,37 @@
   <img src="assets/Ptlunarsloth_internasional.png" alt="PT Lunar Sloth Internasional Banner" width="100%">
 </p>
 
-# 🏗️ PT Lunar Sloth Internasional: The Ecosystem Roadmap
-
-> **"Don't run to the moon, let the moon come to us."** 🚀🌙
-
-Welcome to the official tactical war room and structural foundation for **PT Lunar Sloth Internasional**. This repository serves as the corporate and intellectual backbone, bridging Decentralized Finance (DeFi) with real-world impact.
-
----
-
-## 📢 THE CORPORATE MANIFESTO
-
-### 💎 TRANSPARENCY IS KING
-We operate in total clarity. Our **Developer Allocation (History & Reserves)** is not just a statistic; it is a formal commitment to the ecosystem's longevity and historical significance. We are here to build for the long haul, not for a quick exit.
-
-### 🌱 PRODUCTIVE STILLNESS
-We move with purpose. While the market reacts in panic, we remain anchored in our vision, composed, and unbothered. True strength lies in remaining still while others rush blindly.
-
-### 🌏 REAL WORLD, REAL IMPACT
-**$MAGER** is the digital vehicle for technological innovation, quality education, and social welfare—stemming from our roots in **Garut, West Java**, to the global stage.
-
+‎# 🏗️ PT Lunar Sloth Internasional: The Ecosystem Roadmap
+‎
+‎> "Don't run to the moon, let the moon come to us." 🚀🌙
+‎
+‎Welcome to the official tactical war room and structural foundation for **PT Lunar Sloth Internasional**. This repository serves as the corporate and intellectual backbone, bridging Decentralized Finance (DeFi) with real-world impact.
+‎
+‎---
+‎
+‎## 🏢 THE CORPORATE MANIFESTO
+‎
+‎### 💎 TRANSPARENCY IS KING
+‎> *We operate in total clarity. Our Developer Allocation (History & Reserves) is not just a statistic; it is a formal commitment to the ecosystem's longevity and historical significance. We are here to build for the long haul, not for a quick exit.*
+‎
+‎### 🌱 PRODUCTIVE STILLNESS
+‎> *We move with purpose. While the market reacts in panic, we remain anchored in our vision, composed, and unbothered. True strength lies in remaining still while others rush blindly.*
+‎
+‎### 🛠️ RADICAL AUTHENTICITY
+‎> *Every line of code, every pixel of art, and every strategic roadmap is handcrafted. We value the honesty of labor over the polish of corporate marketing. $MAGER is the result of relentless dedication from a solo builder, proving that great things are born from grit, not just capital.*
+‎
+‎### 🌏 REAL WORLD, REAL IMPACT
+‎> *$MAGER is the digital vehicle for technological innovation, quality education, and social welfare—stemming from our roots in **Garut, West Java**, to the global stage.*
+‎
+‎### 🏛️ DECENTRALIZED LEGACY
+‎> *We believe in the power of the many. While the vision is steered by the Sloth King, the heartbeat of $MAGER belongs to the community. We are building a self-sustaining ecosystem where every holder is a stakeholder in our digital nation.*
+‎---
+‎
+‎## 🛡️ OUR CORE PHILOSOPHY
+‎
+‎* **Sustainability over Hype:** We build foundations, not just candles.
+‎* **Community First:** The "Magerian Army" is our greatest asset.
+‎* **Local Roots, Global Vision:** Bringing Indonesian innovation to the Solana ecosystem.
 ---
 
 ## 🛠️ ECOSYSTEM PILLARS
