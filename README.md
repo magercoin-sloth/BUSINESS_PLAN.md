@@ -26,7 +26,8 @@
 ‎
 ‎### 🏛️ DECENTRALIZED LEGACY
 ‎> *We believe in the power of the many. While the vision is steered by the Sloth King, the heartbeat of $MAGER belongs to the community. We are building a self-sustaining ecosystem where every holder is a stakeholder in our digital nation.*
-‎---
+‎
+---
 ‎
 ‎## 🛡️ OUR CORE PHILOSOPHY
 ‎
