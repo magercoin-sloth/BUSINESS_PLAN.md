@@ -2,9 +2,11 @@
   <img src="assets/Ptlunarsloth_internasional.png" alt="PT Lunar Sloth Internasional Banner" width="100%">
 </p>
 
-‎# 🏗️ PT LUNAR SLOTH INTERNASIONAL: THE ECOSYSTEM ROADMAP
+‎<h1 align="center">🏗️ PT LUNAR SLOTH INTERNASIONAL: THE ECOSYSTEM ROADMAP</h1>
 
-> "Don't run to the moon, let the moon come to us." 🚀🌙
+<p align="center">
+  <i>"Don't run to the moon, let the moon come to us."</i> 🚀🌙
+</p>
 
 Welcome to the official tactical war room and structural foundation for **PT Lunar Sloth Internasional**. This repository serves as the corporate and intellectual backbone, bridging Decentralized Finance (DeFi) with real-world impact.
 
