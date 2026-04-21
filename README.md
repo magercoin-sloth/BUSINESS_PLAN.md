@@ -2,7 +2,7 @@
   <img src="assets/Ptlunarsloth_internasional.png" alt="PT Lunar Sloth Internasional Banner" width="100%">
 </p>
 
-‎##​🏗️ PT LUNAR SLOTH INTERNASIONAL: THE ECOSYSTEM ROADMAP
+‎##​ 🏗️ PT LUNAR SLOTH INTERNASIONAL: THE ECOSYSTEM ROADMAP
 
 > "Don't run to the moon, let the moon come to us." 🚀🌙
 
