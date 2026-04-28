@@ -46,8 +46,8 @@ We believe in **"Local Impact, Global Reach."** By establishing our roots in Gar
 </p>
 
 <p align="center">
-  <b>— SLOTH KING</b><br>
-  Founder & CEO of PT Lunar Sloth Internasional
+  <b>— 👑 SLOTH KING</b><br>
+  💻 Solo Developer  & CEO of PT Lunar Sloth Internasional
 </p>
 
 *© 2026 PT Lunar Sloth Internasional. All Rights Reserved. Built with Integrity.*
