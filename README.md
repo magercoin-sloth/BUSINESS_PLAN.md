@@ -90,4 +90,5 @@ This project is protected by the **PT Lunar Sloth Internasional** License.
 For detailed information on usage, permissions, and restrictions, please refer to the [LICENSE](LICENSE.md) file.
 
 ---
-**— Sloth King, Founder & CEO of PT Lunar Sloth Internasional**
+## **👑 SLOTH KING | 💻 Solo Developer & CEO of PT Lunar Sloth Internasional**
+
